@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: express-helloworld/package-lock.json
+  checksum: 65854e9b3dc6276410b397873b3d2426fd2b47dce9d6dc32d8b2edd110ecbaa8

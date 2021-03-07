@@ -1,11 +1,5 @@
 {
-  "name": "contacts",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www.js"
-  },
-dependencies": {
+  "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.1.0",
@@ -17,5 +11,11 @@ dependencies": {
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
-  }
+  },
+  "name": "contacts",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www.js"
+  },
+  "version": "1.0.0"
 }
